@@ -1,0 +1,8 @@
+{
+  "name": "Grand Line Journey",
+  "description": "A cinematic scrolling website inspired by One Piece, featuring immersive parallax animations and a pirate adventure theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
